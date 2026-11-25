@@ -10,7 +10,7 @@ $ tail -f /var/log/contact.log
      thegrushor@gmail.com · t.me/Grushor
 ```
 
-- Portfolio: **[grshor.github.io](https://grshor.github.io/)**
+- Portfolio: **[gwushor.github.io](https://gwushor.github.io/)**
 - Distributed, event-driven backends — CQRS, Event Sourcing, eventual consistency
 - Now: backend at Sber
 
@@ -18,9 +18,9 @@ $ tail -f /var/log/contact.log
 
 | repo | what it is |
 |---|---|
-| [atlas](https://github.com/Grshor/atlas) | personal project board + agent delegation orchestrator — Rust/axum, xterm.js, self-driving worker loop |
-| [bqnlsp](https://github.com/Grshor/bqnlsp) | BQN language server — interprocedural shape/type inference, Zed extension |
-| [go-postman-66](https://github.com/Grshor/go-postman-66) | translates Go server handlers into Postman endpoints |
-| [jobwatch](https://github.com/Grshor/jobwatch) | job-feed daemon: local LLM gate + agent analysis + Telegram |
-| [eh-example](https://github.com/Grshor/eh-example) | CQRS + Event Sourcing example on eventhorizon |
-| [Grshor.github.io](https://github.com/Grshor/Grshor.github.io) | this portfolio's source — htmx partials + pretext canvas typography |
+| [atlas](https://github.com/Gwushor/atlas) | personal project board + agent delegation orchestrator — Rust/axum, xterm.js, self-driving worker loop |
+| [bqnlsp](https://github.com/Gwushor/bqnlsp) | BQN language server — interprocedural shape/type inference, Zed extension |
+| [go-postman-66](https://github.com/Gwushor/go-postman-66) | translates Go server handlers into Postman endpoints |
+| [jobwatch](https://github.com/Gwushor/jobwatch) | job-feed daemon: local LLM gate + agent analysis + Telegram |
+| [eh-example](https://github.com/Gwushor/eh-example) | CQRS + Event Sourcing example on eventhorizon |
+| [Gwushor.github.io](https://github.com/Gwushor/Gwushor.github.io) | this portfolio's source — htmx partials + pretext canvas typography |
